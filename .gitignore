@@ -1,3 +1,7 @@
+*.fpt
+*.dbf
+
+
 # Logs
 logs
 *.log

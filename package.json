@@ -1,0 +1,17 @@
+{
+  "name": "dbf-parse",
+  "version": "1.0.0",
+  "description": "Parses .dbf files with supporting memo file",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.5.3",
+    "@types/node": "^20.11.16",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
